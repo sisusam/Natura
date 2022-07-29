@@ -1,3 +1,3 @@
-Authors:Sam
+Authors:sisusam, assorted.
 
-License: GNU GPLv3 See Lisence.txt
+Copyright 2022 sisuam under GNU GPLv3. See LICENSE
